@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I’m Shabbir 👋
 
-<!--
-**Shabbirh10/Shabbirh10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering undergraduate  
+💻 Backend & AI/ML Developer  
+🚀 Passionate about building scalable systems and practical AI solutions
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+I’m a Computer Engineering student with hands-on experience in **backend development, machine learning, and applied AI**. I enjoy solving real-world problems by building clean, efficient, and scalable software systems.  
+
+I’ve worked on projects ranging from **medical image segmentation** to **ride-hailing backend platforms** and **on-device large language models**, focusing on practical implementation rather than theory alone.
+
+---
+
+## 🛠️ Technical Skills
+- **Languages:** Python, Java  
+- **Backend:** Spring Boot, REST APIs, JWT Authentication  
+- **Machine Learning:** PyTorch, MONAI, U-Net, NLP basics  
+- **AI/LLMs:** Hugging Face, Mistral-7B, ctransformers  
+- **Databases:** MySQL  
+- **Tools:** Git, GitHub, Streamlit  
+
+---
+
+## 📌 Featured Projects
+### 🔹 ALSeg – Automated Liver Segmentation
+Deep learning–based medical image segmentation system using **U-Net and MONAI** to automate liver detection from CT scans.
+
+### 🔹 RideEasy – Meter-Based Ride-Hailing Platform
+A transparent ride-hailing backend built with **Spring Boot and MySQL**, focused on fair pricing and real-world scalability.
+
+### 🔹 On-Device LLM – Mistral-7B
+Runs a **large language model locally** for offline and privacy-preserving inference using **ctransformers**.
+
+---
+
+## 🎯 Interests
+- Backend system design
+- Applied machine learning
+- Scalable APIs
+- AI systems running on limited resources
+
+---
+
+## 📫 Let’s Connect
+- **GitHub:** https://github.com/Shabbirh10  
+- **LinkedIn:** (add your LinkedIn link here)
+
+---
+
+⭐ Always open to learning, collaborating, and building impactful software.
