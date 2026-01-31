@@ -1,7 +1,7 @@
 # Hi, I’m Shabbir 👋
 
 🎓 Computer Engineering undergraduate  
-💻 Backend & AI/ML Developer  
+💻 Full-Stack & AI/ML Developer  
 🚀 Passionate about building scalable systems and practical AI solutions
 
 ---
@@ -36,7 +36,7 @@ Runs a **large language model locally** for offline and privacy-preserving infer
 ---
 
 ## 🎯 Interests
-- Backend system design
+- Full Stack system design
 - Applied machine learning
 - Scalable APIs
 - AI systems running on limited resources
@@ -45,7 +45,7 @@ Runs a **large language model locally** for offline and privacy-preserving infer
 
 ## 📫 Let’s Connect
 - **GitHub:** https://github.com/Shabbirh10  
-- **LinkedIn:** (add your LinkedIn link here)
+- **LinkedIn:** (https://www.linkedin.com/in/shabbir-hardwarewala-14445b245/)
 
 ---
 
