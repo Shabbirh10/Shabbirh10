@@ -21,19 +21,7 @@ I’ve worked on projects ranging from **medical image segmentation** to **ride-
 - **Databases:** MySQL  
 - **Tools:** Git, GitHub, Streamlit  
 
----
 
-## 📌 Featured Projects
-### 🔹 ALSeg – Automated Liver Segmentation
-Deep learning–based medical image segmentation system using **U-Net and MONAI** to automate liver detection from CT scans.
-
-### 🔹 RideEasy – Meter-Based Ride-Hailing Platform
-A transparent ride-hailing backend built with **Spring Boot and MySQL**, focused on fair pricing and real-world scalability.
-
-### 🔹 On-Device LLM – Mistral-7B
-Runs a **large language model locally** for offline and privacy-preserving inference using **ctransformers**.
-
----
 
 ## 🎯 Interests
 - Full Stack system design
